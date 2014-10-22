@@ -1,0 +1,31 @@
+"Subject","CrsNo","Section","SecCredit","Days1","StartTime1","EndTime1","Bldg1","Rm1","Days2","StartTime2","EndTime2","Bldg2","Rm2","SecLoad","Faculty1","Enrolled","Day10Enr","LocalMax","GlobalMax"
+"ARCT","202","A",4,"TTH","12:30PM","02:20PM","SC","150","","","","","",4,"Henry Luttikhuizen",0,NA,24,24
+"ARCT","203","A",3,"MW","01:00PM","03:50PM","SC","130","","","","","",3,"You Kyong Ahn",0,NA,20,20
+"ART","153","A",4,"MW","10:30AM","12:20PM","SC","104","","","","","",4,"Adam Wolpa",0,NA,18,24
+"ART","153","B",4,"TTH","10:30AM","12:20PM","SC","104","","","","","",4,"You Kyong Ahn",0,NA,18,24
+"ART","153","C",4,"TTH","06:30PM","08:20PM","SC","104","","","","","",4,"Anna E. Greidanus",0,NA,18,24
+"ART","153","D",4,"TTH","01:30PM","03:20PM","SC","105","","","","","",4,"Anna E. Greidanus",0,NA,18,24
+"ARTE","315","A",3,"MW","02:00PM","03:50PM","SC","104","","","","","",3,"Jo-Ann P. VanReeuwyk",0,NA,30,30
+"ARTE","359","A",3,"TBA","","","","","","","","","",3,"Jo-Ann P. VanReeuwyk",0,NA,30,30
+"ARTH","101","A",4,"MW","10:30AM","12:20PM","SC","150","","","","","",4,"Craig Hanson",0,NA,24,30
+"ARTH","102","A",4,"TTH","10:30AM","12:20PM","SC","150","","","","","",4,"Lisa Van Arragon",0,NA,24,30
+"ARTH","102","B",4,"MW","12:30PM","02:20PM","SC","150","","","","","",4,"Lisa Van Arragon",0,NA,24,30
+"ARTH","232","A",3,"W","06:30PM","09:20PM","SC","150","","","","","",3,"Henry Luttikhuizen",0,NA,30,30
+"ARTH","237","A",3,"T","06:30PM","09:20PM","SC","150","","","","","",3,"Craig Hanson",0,NA,24,24
+"ARTH","245","A",3,"M","06:30PM","09:20PM","SC","150","","","","","",3,"Lisa Van Arragon",0,NA,24,24
+"ARTH","397","A",3,"TTH","04:00PM","05:20PM","SC","150","","","","","",3,"Henry Luttikhuizen",0,NA,14,14
+"ARTH","399","A",0,"","","","","","","","","","",0.5,"Craig Hanson",0,NA,20,20
+"ARTS","250","A",3,"TTH","01:00PM","03:50PM","SC","102","","","","","",3,"Adam Wolpa",0,NA,20,28
+"ARTS","251","A",3,"MW","09:00AM","11:50AM","SC","101","","","","","",3,"Mandy Cano Villalobos",0,NA,14,18
+"ARTS","252","A",3,"MW","01:00PM","03:50PM","SC","105","","","","","",3,"Adam Wolpa",0,NA,20,20
+"ARTS","255","A",3,"MW","09:00AM","11:50AM","HH","221","","","","","",3,"Franklin Speyers",0,NA,24,28
+"ARTS","256","A",3,"TTH","06:30PM","09:20PM","SC","103","","","","","",3,"Jennifer Steensma Hoag",0,NA,18,24
+"ARTS","258","A",3,"MW","09:00AM","11:50AM","SC","106","","","","","",3,"Anna E. Greidanus",0,NA,8,12
+"ARTS","301","A",3,"MW","01:00PM","03:50PM","SC","101","","","","","",3,"Mandy Cano Villalobos",0,NA,5,5
+"ARTS","305","A",3,"MW","01:00PM","03:50PM","HH","221","","","","","",3,"Franklin Speyers",0,NA,24,28
+"ARTS","306","A",3,"MW","06:30PM","09:20PM","SC","103","","","","","",3,"Jennifer Steensma Hoag",0,NA,14,14
+"ARTS","308","A",3,"MW","09:00AM","11:50AM","SC","106","","","","","",0,"Anna E. Greidanus",0,NA,4,4
+"ARTS","351","A",3,"MW","01:00PM","03:50PM","SC","101","","","","","",0,"Mandy Cano Villalobos",0,NA,4,4
+"ARTS","355","A",3,"TTH","09:00AM","11:50AM","HH","221","","","","","",3,"Franklin Speyers",0,NA,24,30
+"ARTS","358","A",3,"MW","09:00AM","11:50AM","SC","125","","","","","",0,"Anna E. Greidanus",0,NA,2,2
+"ARTS","399","A",0,"","","","","","","","","","",0.5,"Joel Zwart",0,NA,20,20
